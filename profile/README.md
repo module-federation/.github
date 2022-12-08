@@ -1,4 +1,4 @@
-## 👋 Welcome to everything Module Federation
+## 👋 Welcome to the home of Module Federation
 Webpack Module federation was created by Zackary Jackson and now officially part of webpack. While the core documentation 
 is available on the webpack documentation [site](https://webpack.js.org/concepts/module-federation/) this GitHub organization 
 provides additional resources for folks looking to learn more about Module Federation. 
@@ -54,7 +54,7 @@ Module Federation is proudly supported by Valor Software as official partners. T
 we are proud to offer guidance, consulting, and development assistance in all things Module Federation. If you'd like to have a quick 
 15-minute call with Zack Jackson and Valor Software to share what you're doing please use the following [Calendly Link](https://calendly.com/d/d5d-mch-nby/module-federation-15-min) to book some time.
 
-Other types of assistance Valor can offer:
+Other types of assistance Valor Software can offer:
 - Custom Nx generators to speed adoption of Module Federation
 - Enhancements / Bug-fix / Prioritization for OSS libraries 
 - Architecture Consulting
