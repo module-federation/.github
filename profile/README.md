@@ -52,7 +52,7 @@ for examples on many frameworks including Next.js, React, Angular, Vue and more.
 <img alt="Valor Software Logo Light on Dark" src="https://raw.githubusercontent.com/valor-software/.github/d947b8547a9d5a6021e4f6af7b1df816c1c5f268/profile/valor-logo%20for-dark.png#gh-dark-mode-only" height="150px">
 <img alt="Valor Software Logo Light on Dark" src="https://raw.githubusercontent.com/valor-software/.github/d947b8547a9d5a6021e4f6af7b1df816c1c5f268/profile/valor-logo%20for-light.png#gh-light-mode-only" height="150px">
 
-Module Federation is proudly supported by Valor Software as official partners. Together with Zack Jackson and other contributors to Module Federation
+Module Federation is proudly supported by [Valor Software](https://valor-software.com) as official partners. Together with Zack Jackson and other contributors to Module Federation
 we are proud to offer guidance, consulting, and development assistance in all things Module Federation. If you'd like to have a quick 
 15-minute call with Zack Jackson and Valor Software to share what you're doing please use the following [Calendly Link](https://calendly.com/d/d5d-mch-nby/module-federation-15-min) to book some time.
 
