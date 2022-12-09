@@ -41,7 +41,9 @@ for examples on many frameworks including Next.js, React, Angular, Vue and more.
 - [Superpowered Micro Frontends with Monorepos - Colum Ferry](https://www.youtube.com/watch?v=dotA6ZSmNL4)
 
 #### Angular
-- [MFEs, Micro-Frontends and Module Federation - Manfred Steyer](https://www.youtube.com/watch?v=EGdbmj-kj88)
+- [Module Federation with Angular - Manfred Steyer](https://www.youtube.com/watch?v=pD8VaBdU1f8)
+- [Advanced Module Federation for Angular - Manfred Steyer](https://www.youtube.com/watch?v=8peHqzO7oqE)
+- [Multi-Framework/ Multi-Version Scenarios with Module Federation and Web Components](https://www.youtube.com/watch?v=EGdbmj-kj88)
 - [Micro Frontends and Nx Monorepos: The Best of Two Worlds? - Manfred Steyer](https://www.youtube.com/watch?v=tsIZjUAtF1U)
 - [Micro-Frontends with Module Federation using Angular and Nx](https://www.youtube.com/watch?v=e8-hBYw5bx0)
 - [Speed up your Angular serve and build times with Module Federation and Nx - Juri Strumpflohner](https://www.youtube.com/watch?v=JkcaGzhRjkc)
