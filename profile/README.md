@@ -64,6 +64,6 @@ Other types of assistance Valor Software can offer:
 
 ### Roadmap
 
-We have created a board for tracking RFC's and our public roadmap [here](https://github.com/orgs/module-federation/projects/2). 
+We have created a discussion category for tracking RFC's [here](https://github.com/module-federation/nextjs-mf/discussions/categories/rfc). 
 
 Please assist us in welcoming @viktoriialurie, the new Product Owner for Module Federation!
