@@ -13,6 +13,9 @@ It also enables distributed teams and applications with different release cycles
 
 Additionally, it allows for code-splitting based on routes and other criteria, which can improve performance.
 
+### Sponsors
+🙌 [Become a Sponsor](https://opencollective.com/module-federation-universe)
+
 ### What Tooling exists for MF
 
 - [Medusa](https://medusa.codes) - Tool for visualizing and managing MF remotes and versioning
