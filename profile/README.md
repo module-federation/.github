@@ -70,3 +70,7 @@ Other types of assistance Valor Software can offer:
 We have created a discussion category for tracking RFC's [here](https://github.com/module-federation/nextjs-mf/discussions/categories/rfc). 
 
 Please assist us in welcoming @viktoriialurie, the new Product Owner for Module Federation!
+
+### Social links
+
+We are excited to announce the launch of our new [Discord community](https://discord.gg/vShfzwsH)for Module Federation! This space will be used to discuss and share knowledge about the latest advancements in module federation and how to use it effectively. See you there! 
