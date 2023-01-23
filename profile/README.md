@@ -25,7 +25,7 @@ Additionally, it allows for code-splitting based on routes and other criteria, w
 ### Highlighted Repositories
 - [Examples](https://github.com/module-federation/module-federation-examples) An entire open source learna workspace 
 for examples on many frameworks including Next.js, React, Angular, Vue and more.
-- [Nextjs-MF](https://github.com/module-federation/nextjs-mf) Previously paid closed-source, now open source, plugins for Next.js module federation and Next.js SSR.
+- [Universe](https://github.com/module-federation/universe) A collection of tools, plugins, and utilities for Module Federation.
 
 ### MF Book
 [Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation) - The official book on Webpack Module Federation by Jack Herrington & Zack Jackson
@@ -73,4 +73,4 @@ Please assist us in welcoming @viktoriialurie, the new Product Owner for Module 
 
 ### Social links
 
-We are excited to announce the launch of our new [Discord community](https://discord.gg/vShfzwsH)for Module Federation! This space will be used to discuss and share knowledge about the latest advancements in module federation and how to use it effectively. See you there! 
+We are excited to announce the launch of our new [Discord community](https://discord.gg/vShfzwsH) for Module Federation! This space will be used to discuss and share knowledge about the latest advancements in module federation and how to use it effectively. See you there! 
