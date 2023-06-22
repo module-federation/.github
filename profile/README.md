@@ -73,4 +73,4 @@ Please assist us in welcoming @viktoriialurie, the new Product Owner for Module 
 
 ### Social links
 
-We are excited to announce the launch of our new [Discord community](https://discord.gg/vShfzwsH) for Module Federation! This space will be used to discuss and share knowledge about the latest advancements in module federation and how to use it effectively. See you there! 
+We are excited to announce the launch of our new [Discord community](https://discord.gg/T8c6yAxkbv) for Module Federation! This space will be used to discuss and share knowledge about the latest advancements in module federation and how to use it effectively. See you there! 
