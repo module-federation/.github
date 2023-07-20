@@ -2,7 +2,7 @@
 Webpack Module federation was created by Zackary Jackson and now officially part of webpack. This GitHub organization 
 provides additional resources for folks looking to learn more about Module Federation.
 
-You're also welcome to explore the brand-new Module Federation [website and documentation] (https://module-federation.io/) which is a valuable resource for both beginners and experienced developers. It is designed to be your go-to resource for all things Module Federation and more content is on the way!
+You're also welcome to explore the brand-new Module Federation [website and documentation](https://module-federation.io/) which is a valuable resource for both beginners and experienced developers. It is designed to be your go-to resource for all things Module Federation and more content is on the way!
 
 ### What is Module Federation?
 
