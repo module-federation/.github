@@ -1,3 +1,5 @@
+English | [简体中文](README-zh_CN.md)
+
 ## 👋 Welcome to the home of Module Federation
 Webpack Module federation was created by Zackary Jackson and now officially part of webpack. This GitHub organization 
 provides additional resources for folks looking to learn more about Module Federation.
